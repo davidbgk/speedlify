@@ -2,7 +2,7 @@ module.exports = {
 	name: "Perso", // optional, falls back to object key
 	description: "Sites perso",
 	options: {
-		frequency: 60 * 24, // 24 hours
+		frequency: 60 * 3, // hours
 		freshChrome: "site",
 	},
 	urls: [
