@@ -10,6 +10,6 @@ module.exports = {
 	urls: [
 		"http://scopyleft.fr/",
 		"https://mesconseilscovid.sante.gouv.fr/",
-		"http://demo.mesconseilscovid.fr/",
+		"https://demo.mesconseilscovid.fr/",
 	]
 };
